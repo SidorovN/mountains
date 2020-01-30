@@ -756,6 +756,10 @@ svg {
   list-style: none;
 }
 
+.footer__social-links:not(:last-child) {
+  margin-right: 10px;
+}
+
 .footer__phone {
   color: #7ec6d6;
   font-size: 27px;
