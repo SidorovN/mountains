@@ -741,11 +741,12 @@ svg {
 .footer {
   background: linear-gradient(95deg, #3c535a, #406872);
 }
+
 .page_place_footer {
   display: flex;
   justify-content: space-between;
   height: 83px;
-  margin: 0 10px;
+  padding: 0 10px;
 }
 
 .footer__copyright {
