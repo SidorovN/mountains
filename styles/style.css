@@ -2,7 +2,7 @@ body {
   max-width: 1920px;
   min-width: 1170px;
   margin: auto;
-  font-family: Open San
+  font-family: Open Sans
 }
 
 .visually-hidden {
@@ -745,6 +745,7 @@ svg {
   display: flex;
   justify-content: space-between;
   height: 83px;
+  margin: 0 10px;
 }
 
 .footer__copyright {
