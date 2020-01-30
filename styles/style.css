@@ -2,7 +2,7 @@ body {
   max-width: 1920px;
   min-width: 1170px;
   margin: auto;
-  font-family: Open San
+  font-family: Open Sans
 }
 
 .visually-hidden {
@@ -320,7 +320,7 @@ body {
 
 .table__cell-number {
   color: #212121;
-  font-family: "Times New Roman PSMT";
+  font-family: "Times New Roman";
   font-size: 14px;
   font-weight: 400;
   font-style: italic;
@@ -478,7 +478,7 @@ svg {
 .octo-table__heading {
   width: 205px;
   color: #2c2e37;
-  font-family: "Roboto - Black";
+  font-family: "Roboto";
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 3px;
@@ -487,7 +487,7 @@ svg {
 .octo-table__text {
   width: 205px;
   color: #949494;
-  font-family: "Roboto - Black";
+  font-family: "Roboto";
   font-size: 18px;
   font-weight: 400;
   margin: 0;
