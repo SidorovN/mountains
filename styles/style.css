@@ -2,7 +2,7 @@ body {
   max-width: 1920px;
   min-width: 1170px;
   margin: auto;
-  font-family: Open Sans;
+  font-family: Open San
 }
 
 .visually-hidden {
@@ -139,7 +139,7 @@ body {
   position: absolute;
   background-color: #f6f4f4;
   z-index: 1;
-  background-image: url(../images/Vector_Smart_Object.png);
+  background-image: url(../images/vector_smart_object.png);
   background-repeat: no-repeat;
   background-position: center 25px;
 }
@@ -152,7 +152,7 @@ body {
   width: 806px;
   max-width: 806px;
   height: 570px;
-  background-image: url(../images/Curves-3.jpg);
+  background-image: url(../images/curves-3.jpg);
   background-position: top left;
   z-index: 3;
 }
@@ -419,7 +419,7 @@ svg {
   list-style: none;
   display: flex;
   justify-content: space-around;
-  background-image: url(../images/Shape.png);
+  background-image: url(../images/shape.png);
   background-position: 166px 25px;
   background-repeat: no-repeat;
 }
