@@ -17,7 +17,6 @@ body {
   width: 1170px;
   margin: 0 auto;
   position: relative;
-  padding: 0 10px;
 }
 
 .wrapper {
@@ -49,6 +48,7 @@ body {
   margin-top: 24px;
   margin-bottom: 24px;
 }
+
 .navigation__links {
   margin: 0;
   display: flex;
@@ -282,6 +282,7 @@ body {
   top: 60px;
   right: -15px;
 }
+
 .table__text-3::after {
   top: -15px;
   right: 60px;
@@ -513,6 +514,7 @@ svg {
   margin: 0 auto;
   max-width: 1140px;
   color: white;
+  padding: 0;
 }
 
 .catalog__card {
